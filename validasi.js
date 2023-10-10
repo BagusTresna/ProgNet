@@ -51,7 +51,7 @@ function validateForm() {
   }
 
   // Menampilkan data yang diinput
-  var output = "Data yang Anda masukkan telah tersimpan\n\n";
+  var output = "Data yang akan di masukkan\n\n";
   output += "Nama: " + nama + "\n";
   output += "NIM: " + nim + "\n";
   output += "Angkatan: " + angkatan + "\n";
