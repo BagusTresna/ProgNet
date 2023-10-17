@@ -99,7 +99,7 @@
                 <input type="email" class="form-control" id="email" name="email" placeholder="Email" required />
               </div>
               <br />
-              <button type="submit" class="btn btn-primary" target="_blank">Simpan</button>
+              <button type="submit" name="create" class="btn btn-primary" target="_blank">Simpan</button>
             </form>
           </div>
         </div>
@@ -111,7 +111,7 @@
     integrity = "sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
     crossorigin = "anonymous"
   </script>
-  <script src="validasi.js"></script>
+  <script src="config/validasi.js"></script>
 </body>
 
 </html>
