@@ -16,6 +16,7 @@
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="{{ asset('css/bio.css')}}">
   </head>
 
   <body style="background-color: #eee">
@@ -30,7 +31,7 @@
           <div class="card mb-4">
             <div class="card-body text-center">
               <img
-                src="profil.jpg"
+                src="images/profil.jpg"
                 alt="avatar"
                 class="rounded-circle img-fluid"
                 style="width: 150px"
@@ -188,7 +189,7 @@
                         <td>Form Data Diri</td>
                         <td>
                           <a
-                            href="form.php"
+                            href="form"
                             class="btn btn-primary"
                             target=""
                             >Lihat</a
